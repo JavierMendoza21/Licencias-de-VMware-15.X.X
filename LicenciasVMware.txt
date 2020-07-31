@@ -1,4 +1,4 @@
-Serial Keys:
+Serial Keys VMware:
 
 FU512-2DG1H-M85QZ-U7Z5T-PY8ZD
 CU3MA-2LG1N-48EGQ-9GNGZ-QG0UD
@@ -13,4 +13,7 @@ FY780-64E90-0845Z-1DWQ9-XPRC0
 UF312-07W82-H89XZ-7FPGE-XUH80
 AA3DH-0PYD1-0803P-X4Z7V-PGHR4
 
-If the key works for you, just share what you use VMware for.
+Serial Visual Studio:
+
+Visual Studio Enterprise 2017 Serial Key: NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
+Visual Studio Professional 2017 Serial Key: KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
